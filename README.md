@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Themercee
-- 👀 I’m interested in Security, improving software development and too much thing 😅
-- 🌱 I’m currently learning by reading Clean Architecture and some Devops books (accelerate, DevOps)
+- 👀 I’m interested in software development, security and too much thing 😅
+- 🌱 I’m currently working on personal project, but also looking for side opportunities
 
 <!---
 Themercee/Themercee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
