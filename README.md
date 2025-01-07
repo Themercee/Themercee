@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Themercee
-- 👀 I’m interested in software development, security and too much thing 😅
-- 🌱 I’m currently working on personal project, but also looking for side opportunities
+- 👀 I’m interested in software development, security and too much things 😅
+- 🌱 I’m currently working on personal projects, but also looking for side opportunities!
 
 <!---
 Themercee/Themercee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
